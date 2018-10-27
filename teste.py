@@ -13,11 +13,3 @@ def saca(conta, valor):
 
 def extrato(conta):
     print(f'Saldo é {conta["saldo"]}')
-
-
-#conta = cria_conta(123, 'Nico', 55.0, 1000.0)
-#deposita(conta, 15.0)
-#print(conta['saldo'])
-
-#saca(conta, 20.0)
-#print(conta['saldo'])
