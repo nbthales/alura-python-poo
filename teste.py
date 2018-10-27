@@ -13,3 +13,10 @@ def saca(conta, valor):
 
 def extrato(conta):
     print(f'Saldo é {conta["saldo"]}')
+
+# COMANDOS NO CONSOLE
+# from conta import Conta
+# conta = Conta(123, 'Thales', 55.5, 1000.0)
+# conta2 = Conta(321, 'Marco', 100.0, 1000.0)
+## transferindo da conta para a conta2
+# conta.transfere(10.0, conta2)
